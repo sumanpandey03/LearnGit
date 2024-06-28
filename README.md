@@ -1,3 +1,3 @@
 #This is my local repo
 <br>
-Create navbar, body and footer using HTML & CSS.
+Create simple navbar, body and footer using HTML & CSS.
